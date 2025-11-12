@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recommand on &lt;hanC/></title><link>https://dangpangch.github.io/tags/recommand/</link><description>Recent content in Recommand on &lt;hanC/></description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 13 May 2025 19:32:24 +0800</lastBuildDate><atom:link href="https://dangpangch.github.io/tags/recommand/rss.xml" rel="self" type="application/rss+xml"/><item><title>Recommand Resource</title><link>https://dangpangch.github.io/recommand/</link><pubDate>Tue, 13 May 2025 19:32:24 +0800</pubDate><guid>https://dangpangch.github.io/recommand/</guid><description>&lt;blockquote>
-&lt;p>该页面主要收集一些好用的资源，包括但不限于：学习资料、工具以及开源项目等.&lt;/p>&lt;/blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recommand on<hanC/></title><link>https://dangpangch.github.io/tags/recommand/</link><description>Recent content in Recommand on<hanC/></description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 13 May 2025 19:32:24 +0800</lastBuildDate><atom:link href="https://dangpangch.github.io/tags/recommand/rss.xml" rel="self" type="application/rss+xml"/><item><title>Recommand Resource</title><link>https://dangpangch.github.io/recommand/</link><pubDate>Tue, 13 May 2025 19:32:24 +0800</pubDate><guid>https://dangpangch.github.io/recommand/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;该页面主要收集一些好用的资源，包括但不限于：学习资料、工具以及开源项目等.&lt;/p&gt;&lt;/blockquote&gt;
 
 
 
-&lt;div class="toc-wrapper">
- &lt;div class="toc-header">
- &lt;h2>目录&lt;/h2>
- &lt;/div>
- &lt;div class="toc-content">
- &lt;nav id="TableOfContents">
- &lt;ul>
- &lt;li>&lt;a href="#programming-language-learning">Programming Language Learning&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#website">Website&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#github-repository">Github Repository&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#tool">Tool&lt;/a>&lt;/li>
- &lt;/ul>
-&lt;/nav>
- &lt;/div>
-&lt;/div>
+&lt;div class="toc-wrapper"&gt;
+ &lt;div class="toc-header"&gt;
+ &lt;h2&gt;目录&lt;/h2&gt;
+ &lt;/div&gt;
+ &lt;div class="toc-content"&gt;
+ &lt;nav id="TableOfContents"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#programming-language-learning"&gt;Programming Language Learning&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#website"&gt;Website&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#github-repository"&gt;Github Repository&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#tool"&gt;Tool&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/nav&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
 
-&lt;style>
+&lt;style&gt;
 .toc-wrapper {
  margin: 1.5rem 0;
  padding: .5rem 1rem;
@@ -87,31 +87,31 @@
  font-weight: 500;
  text-decoration: underline;
 }
-&lt;/style>
-&lt;ul>
-&lt;li>&lt;a href="https://markdown.com.cn/">Markdown&lt;/a> :Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，Markdown文件的后缀名便是“.md”.&lt;/li>
-&lt;li>&lt;a href="https://roadmap.sh/">roadmap.sh&lt;/a> :roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.&lt;/li>
-&lt;/ul>
-&lt;h2 id="programming-language-learning">Programming Language Learning&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://go.dev/doc/effective_go">Effective Go&lt;/a> :Effective Go 是 Go 语言的官方文档，它包含了 Go 语言的基础知识、编码规范、性能优化技巧等.&lt;/li>
-&lt;li>&lt;a href="https://draven.co/golang/">Go语言设计与实现&lt;/a> :详细解释Go语言的编译原理、运行时、基础知识和进阶知识.&lt;/li>
-&lt;li>&lt;a href="https://tonybai.com/">Go/tonybai&lt;/a> :Go语言博客，由Tony Bai创作.&lt;/li>
-&lt;li>&lt;a href="https://www.yuque.com/aceld/npyr8s">Go/aceid - 轻量级并发服务框架zinx&lt;/a> :通过Zinx框架来了解基于Golang编写一个TCP服务器的整体轮廓&lt;/li>
-&lt;li>&lt;a href="https://developer.mozilla.org/zh-CN/">MDN Web Docs&lt;/a> :MDN Web Docs 是 Mozilla 开发的一个免费的、开放的、跨平台的 Web 文档项目，它包含了 Web 技术的所有文档，包括 HTML、CSS、JavaScript 等.&lt;/li>
-&lt;li>&lt;a href="https://kaisery.github.io/trpl-zh-cn/">Rust/trpl-zh-cn&lt;/a> :The Rust Programming Language 中文翻译.&lt;/li>
-&lt;/ul>
-&lt;h2 id="website">Website&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://gohugo.io/">hugo&lt;/a> :Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/li>
-&lt;li>&lt;a href="https://uiverse.io/">uiverse&lt;/a> :The Largest Library of Open-Source UI&lt;/li>
-&lt;/ul>
-&lt;h2 id="github-repository">Github Repository&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/codecrafters-io/build-your-own-x">github/build-your-owm-x&lt;/a> :This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.&lt;/li>
-&lt;/ul>
-&lt;h2 id="tool">Tool&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://photokit.com/colors/eyedropper/?lang=zh">eyedropper&lt;/a> :eyedropper是一个颜色选择器，单击颜色吸管按钮并在屏幕上的任意位置选择一种颜色.&lt;/li>
-&lt;li>&lt;a href="https://convertio.co/zh/">convertio&lt;/a> :convertio是一个免费的文件转换工具，支持多种文件格式之间的转换，如PDF、图片、视频、音频等。&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://markdown.com.cn/"&gt;Markdown&lt;/a&gt; :Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，Markdown文件的后缀名便是“.md”.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://roadmap.sh/"&gt;roadmap.sh&lt;/a&gt; :roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="programming-language-learning"&gt;Programming Language Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://go.dev/doc/effective_go"&gt;Effective Go&lt;/a&gt; :Effective Go 是 Go 语言的官方文档，它包含了 Go 语言的基础知识、编码规范、性能优化技巧等.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://draven.co/golang/"&gt;Go语言设计与实现&lt;/a&gt; :详细解释Go语言的编译原理、运行时、基础知识和进阶知识.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tonybai.com/"&gt;Go/tonybai&lt;/a&gt; :Go语言博客，由Tony Bai创作.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.yuque.com/aceld/npyr8s"&gt;Go/aceid - 轻量级并发服务框架zinx&lt;/a&gt; :通过Zinx框架来了解基于Golang编写一个TCP服务器的整体轮廓&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/zh-CN/"&gt;MDN Web Docs&lt;/a&gt; :MDN Web Docs 是 Mozilla 开发的一个免费的、开放的、跨平台的 Web 文档项目，它包含了 Web 技术的所有文档，包括 HTML、CSS、JavaScript 等.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kaisery.github.io/trpl-zh-cn/"&gt;Rust/trpl-zh-cn&lt;/a&gt; :The Rust Programming Language 中文翻译.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="website"&gt;Website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://gohugo.io/"&gt;hugo&lt;/a&gt; :Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://uiverse.io/"&gt;uiverse&lt;/a&gt; :The Largest Library of Open-Source UI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="github-repository"&gt;Github Repository&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/codecrafters-io/build-your-own-x"&gt;github/build-your-owm-x&lt;/a&gt; :This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="tool"&gt;Tool&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://photokit.com/colors/eyedropper/?lang=zh"&gt;eyedropper&lt;/a&gt; :eyedropper是一个颜色选择器，单击颜色吸管按钮并在屏幕上的任意位置选择一种颜色.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://convertio.co/zh/"&gt;convertio&lt;/a&gt; :convertio是一个免费的文件转换工具，支持多种文件格式之间的转换，如PDF、图片、视频、音频等。&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
